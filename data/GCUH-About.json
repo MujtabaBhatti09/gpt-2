@@ -1,0 +1,17 @@
+{
+    "department": {
+        "name": "Unknown Department",
+        "university": "GC University Hyderabad",
+        "introduction": "",
+        "vision": "",
+        "mission": "",
+        "goals": {
+            "undergraduate": [],
+            "graduate": []
+        },
+        "academic_programs": {
+            "currently_offering": [],
+            "proposed": []
+        }
+    }
+}

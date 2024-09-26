@@ -1,0 +1,79 @@
+{
+    "department": {
+        "name": "Section Department of Information Technology IT :",
+        "university": "Government College University Hyderabad",
+        "introduction": "Department of Information Technology has always played leading role in academic and extracurricular activities of the university. The department has well equipped laboratories with latest facilities with highly qualified and well trained and experienced, enthusiastic and devoted faculty members. The teaching has been carried out through multimedia along with different tactics like activi ties, group discussion etc.  ",
+        "vision": "To become a front -runner in preparing graduates to be efficient problem solvers, researchers, innovators and entrepreneurs, and making them competent professionals by enabling them to take up any kind of challenges in Information Technology industry or research organizations they serve.  ",
+        "mission": "To create, share, and apply knowledge in Information Technology, including in interdisciplinary areas that extend the scope of Information Technology and benefit humanity; to educate students to be successful, ethical, and effective problem solvers and life-long learners who will contribute positively to the economic wellbeing of our region and nation and who are prepared to tackle complex 21st Century challenges facing the world.   Goals To realize our vision we must achieve the following goals:    ",
+        "goals": {
+            "undergraduate": [
+                "The goals of our undergraduate programs are to :",
+                "",
+                "1. Teach students how to use computers effectively, creatively, and intelligently;",
+                "2. Teach Information technology as a multifaceted, humanistic discipline of problem",
+                "solving;",
+                "3. Provide up -to-date curricula in the technical and scientific knowledge needed for the",
+                "professional and academic goals of our students;",
+                "4. Encourage and participate in interdisciplinary undergraduate educational opportunities",
+                "at GCUH;",
+                "5. Teach students how to acquire new knowledge, independently, in a world that changes",
+                "with ever increasing rapidity;",
+                "6. Provide students with experiential learning opportunities;",
+                "7. Educate an increasing number of undergraduates in IT to meet the growing demands of",
+                "the regional and national economy",
+                ""
+            ],
+            "graduate": [
+                "The goals of our MS and PhD graduate programs are to :",
+                "",
+                "Offer a high quality flexible graduate curriculum with an emphasis in Intelligent Systems;",
+                "Encourage and participate in interdisciplinary graduate educational opportunities at GCUH",
+                "Teach our students how to extend the frontiers of Information technology knowledge;",
+                "Support high -quality faculty research programs;",
+                "",
+                "",
+                ""
+            ]
+        },
+        "academic_programs": {
+            "currently_offering": [
+                "",
+                "BS Information Technology (4 Years)",
+                "MS Information Technology (2 Years)",
+                ""
+            ],
+            "proposed": [
+                "PhD Program",
+                "",
+                "Faculty Members  of Information Technology IT :",
+                "",
+                "Prof. Dr. Imtiaz Brohi   Professor & Chairman",
+                "Dr. Sheeba Memon   Assistant  Professor",
+                "",
+                "Engr. Dr. Allah Rakhio",
+                "Junejo   Assistant Professor",
+                "Engr. Naeem Ahmed   Lecturer",
+                "Mr. Ahmed Asghar  Lecturer",
+                "Miss. Ufaque Shaikh  Lecturer",
+                "",
+                "Mr. Muhammad",
+                "Waseem   Lecturer",
+                "",
+                "Miss. Iqra Kanwal Lakho  Lecturer",
+                "",
+                "Ms. Madiha   Lecturer",
+                "Mr. Hakim Ali Junejo  Lecturer",
+                "Mr. Zulfiqar Gul Shaikh  Lecturer",
+                "Mr. Amjad Khowaja   Lecturer",
+                "",
+                "",
+                "Miss. Quratulain",
+                "Laghari   Teaching Assistant",
+                "Mr. Waqar Ali Soomro  Teaching Assistant",
+                "Miss. Fariha Shahid  Teaching Assistant",
+                "Mr. Khaleel Ahmed   Teaching Assistant",
+                "Mr. Iqrar Ali Shah   Teaching Assistant"
+            ]
+        }
+    }
+}

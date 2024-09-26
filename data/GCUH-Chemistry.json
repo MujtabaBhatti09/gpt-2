@@ -1,0 +1,17 @@
+{
+    "department": {
+        "name": "Section Department of Chemistry :",
+        "university": "Government College University Hyderabad",
+        "introduction": "",
+        "vision": "",
+        "mission": "",
+        "goals": {
+            "undergraduate": [],
+            "graduate": []
+        },
+        "academic_programs": {
+            "currently_offering": [],
+            "proposed": []
+        }
+    }
+}
